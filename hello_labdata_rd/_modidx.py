@@ -26,5 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'Fenix1206',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_rd\\core': {'hello_labdata_rd\\core.hello': 'https://Fenix1206.github.io/hello_labdata_rd/hello_labdata_rd\\core.html#hello'},
-            'hello_labdata_rd\\greetings': { 'hello_labdata_rd\\greetings.hello': 'https://Fenix1206.github.io/hello_labdata_rd/hello_labdata_rd\\greetings.html#hello'}}}
+  'syms': { 'hello_labdata_rd.core': {'hello_labdata_rd.core.hello': 'https://Fenix1206.github.io/hello_labdata_rd/core.html#hello'},
+            'hello_labdata_rd.greetings': {'hello_labdata_rd.greetings.hello': 'https://Fenix1206.github.io/hello_labdata_rd/greetings.html#hello'}}}
